@@ -15,3 +15,7 @@ docker-compose up --build
 ```
 
 Depois acesse **localhost:3000** para ver a aplicação rodando
+
+O link do vídeo de apresentação é
+
+https://youtu.be/d91Q7kNsSS4
