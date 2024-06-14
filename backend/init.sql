@@ -1,0 +1,6 @@
+CREATE TABLE carro (
+  id SERIAL PRIMARY KEY,
+  modelo VARCHAR(255) NOT NULL,
+  marca VARCHAR(255) NOT NULL,
+  ano_fabricacao VARCHAR(255) NOT NULL
+)
